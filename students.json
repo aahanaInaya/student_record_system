@@ -1,0 +1,26 @@
+[
+    {
+        "name": "saf",
+        "roll": 43,
+        "email": "saf@gmail.com",
+        "department": "GBC"
+    },
+    {
+        "name": "Rah",
+        "roll": 21,
+        "email": "rah@",
+        "department": "BBc"
+    },
+    {
+        "name": "Kah",
+        "roll": 34,
+        "email": "kah@",
+        "department": "bbc"
+    },
+    {
+        "name": "rag",
+        "roll": 57,
+        "email": "rag@",
+        "department": "BBc"
+    }
+]
